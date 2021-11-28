@@ -36,5 +36,5 @@
 
 <hr>
 <img align='left' src="http://mazassumnida.wtf/api/generate_badge?boj=silver4550">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=eunseo22mv" height="180">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=eunseo22mv" height="175">
 
