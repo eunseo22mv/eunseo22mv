@@ -4,7 +4,7 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=White)](https://github.com/eunseo22mv)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:1086silver@gmail.com) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://eunseo22mv.tistory.com/)
-[![Naver Blog Badge](https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat&logoColor=white)](https://blog.naver.com/silver4550) 
+[![Naver Blog Badge](https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/silver4550) 
 
 
 ### Who Am I
