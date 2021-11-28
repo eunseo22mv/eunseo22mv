@@ -5,14 +5,14 @@
 [![Naver Blog Badge](https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat&logoColor=white)](https://blog.naver.com/silver4550) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://eunseo22mv.tistory.com/)
 
-<br>
+
 
 ### Who Am I
 
 
 - 🌱 I’m currently learning `Algorithms`, `C++`, `Javascript`
 - 🥇 I’m majoring in Computer Science & Engineering at Ewha Womans Univ.
-<br>
+
 
 ### Experiences
 
@@ -22,7 +22,7 @@
 - 🎯 Facilitator of HAEYUM, Design Thinking Club (2020.09~)
 - 🌳 Organizer of ICPC Sinchon (2021.09~)
 
-<br>
+
 
 ### What I Like
 
@@ -35,6 +35,6 @@
 <br>
 
 <hr>
-<img align='left' src="http://mazassumnida.wtf/api/generate_badge?boj=silver4550">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=eunseo22mv" height="175">
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=silver4550" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=eunseo22mv&theme=graywhite" height="200">
 
