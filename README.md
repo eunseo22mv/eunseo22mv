@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=silver4550)](https://solved.ac/silver4550)
+
