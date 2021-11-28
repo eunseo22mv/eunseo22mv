@@ -16,8 +16,9 @@
 
 ### Experiences
 
+- 🏀 Member of WOLFPACK, Basketball Club (2019.09 ~ 2019.12)
 - 👨‍💻 Member/Organizer of EDOC, Programming Study Club (2019.12~/2020.12~)
-- 📗 Member of Ewha SW Education Volunteer Corps (2020.03~2021.06) 
+- 🥼 Member of Ewha SW Education Volunteer Corps (2020.03~2021.06) 
 - 📝 TA of 'Problem Solving and Software Programming', SW Elective Class in Ewha Womans Univ. (2020.03~)
 - 🎯 Facilitator of HAEYUM, Design Thinking Club (2020.09~)
 - 🌳 Organizer of ICPC Sinchon (2021.09~)
@@ -26,6 +27,7 @@
 
 ### What I Like
 
+- 📷 Photo : I enjoy photographing with my film cameras; `Minolta Hi-Matic AF-D`, `Olympus Mju 1`
 - 📚 Book : I’m currently reading `After the Storm`🌪
 - 🎬 Movie : My favorite movie is `Loving vincent`💛
 - 🏀 Basketball : I really enjoy playing basketball.  `Shooting guard` is my main position 🤾‍
