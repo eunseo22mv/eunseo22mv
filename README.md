@@ -29,7 +29,7 @@
 
 - 📷 Photo : I enjoy photographing with my film cameras; `Minolta Hi-Matic AF-D`, `Olympus Mju 1`
 - 📚 Book : I’m currently reading `After the Storm`🌪
-- 🎬 Movie : My favorite movie is `Loving vincent`🎨
+- 🎬 Movie : My favorite movie is `Loving Vincent`🎨
 - 🏀 Basketball : I really enjoy playing basketball.  `Shooting guard` is my main position ⛹
 - 🥁 Drum : I love playing the drum 🎵
 
