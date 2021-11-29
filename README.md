@@ -32,7 +32,6 @@
 - 🎬 Movie : My favorite movie is `Loving vincent`🎨
 - 🏀 Basketball : I really enjoy playing basketball.  `Shooting guard` is my main position ⛹
 - 🥁 Drum : I love playing the drum 🎵
-- 🛹 Skateboard : I’m interested in learning skateboarding these days 😮
 
 <br>
 
