@@ -19,7 +19,7 @@
 - 🏀 Member of WOLFPACK, Basketball Club (2019.09 ~ 2019.12)
 - 👨‍💻 Member/Organizer of EDOC, Programming Study Club (2019.12~/2020.12~)
 - 🥼 Member of Ewha SW Education Volunteer Corps (2020.03~2021.06) 
-- 📝 TA of 'Problem Solving and Software Programming', SW Elective Class in Ewha Womans Univ. (2020.03~)
+- 📝 TA of 'Problem Solving and Software Programming'(Course Idnumber : 11309), SW Elective Class in Ewha Womans Univ. (2020.03~)
 - 🎯 Facilitator of HAEYUM, Design Thinking Club (2020.09~)
 - 🌳 Organizer of ICPC Sinchon (2021.09~)
 
