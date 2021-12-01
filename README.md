@@ -37,5 +37,6 @@
 
 <hr>
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=silver4550" height="200">
+<img src="http://mazandi.herokuapp.com/api?handle=silver4550&theme=warm"/>
 <img src="https://github-readme-stats.vercel.app/api?username=eunseo22mv&theme=graywhite" height="200">
 
