@@ -10,7 +10,7 @@
 ### Who Am I
 
 
-- 🌱 I’m currently learning `Algorithms`, `C++`, `Javascript`
+- 🌱 I’m currently learning `Object Detection`, `C++`, `Javascript`
 - 🥇 I’m majoring in Computer Science & Engineering at Ewha Womans Univ.
 
 
@@ -18,18 +18,16 @@
 
 - 🏀 Member of WOLFPACK, Basketball Club (2019.09 ~ 2019.12)
 - 👨‍💻 Member/Organizer of EDOC, Programming Study Club (2019.12~/2020.12~)
-- 🥼 Member of Ewha SW Education Volunteer Corps (2020.03~2021.06) 
-- 📝 TA of 'Problem Solving and Software Programming' (11309), SW Elective Class in Ewha Womans Univ. (2020.03~)
-- 🎯 Facilitator of HAEYUM, Design Thinking Club (2020.09~)
-- 🌳 Organizer of ICPC Sinchon (2021.09~)
+- 🥼 Member of Ewha SW Education Volunteer Corps (2020.03 ~ 2021.06) 
+- 📝 TA of 'Problem Solving and Software Programming' (11309), SW Elective Class in Ewha Womans Univ. (2020.03 ~)
+- 🎯 Facilitator of HAEYUM, Design Thinking Club (2020.09 ~ 2021.12)
+- 🌳 Organizer of ICPC Sinchon (2021.09 ~)
 
 
 
 ### What I Like
 
 - 📷 Photo : I enjoy photographing with my film cameras; `Minolta Hi-Matic AF-D`, `Olympus Mju 1`
-- 📚 Book : I’m currently reading `After the Storm`🌪
-- 🎬 Movie : My favorite movie is `Loving Vincent`🎨
 - 🏀 Basketball : I really enjoy playing basketball.  `Shooting guard` is my main position ⛹
 - 🥁 Drum : I love playing the drum 🎵
 
