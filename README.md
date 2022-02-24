@@ -10,7 +10,7 @@
 ### Who Am I
 
 
-- 🌱 I’m currently learning `Object Detection`, `Spring`, `Javascript`
+- 🌱 I’m currently learning `Java`, `Spring`, `Javascript`
 - 🥇 I’m majoring in Computer Science & Engineering at Ewha Womans Univ.
 
 
