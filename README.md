@@ -29,7 +29,6 @@
 
 - 📷 Photo : I enjoy photographing with my film cameras; `Minolta Hi-Matic AF-D`, `Olympus Mju 1`
 - 🏀 Basketball : I really enjoy playing basketball.  `Shooting guard` is my main position ⛹
-- 🥁 Drum : I love playing the drum 🎵
 
 <br>
 
