@@ -10,18 +10,19 @@
 ### Who Am I
 
 
-- 🌱 I’m currently learning `Java`, `Spring`, `Javascript`
+- 🌱 I’m currently learning `Java`, `Spring`
 - 🥇 I’m majoring in Computer Science & Engineering at Ewha Womans Univ.
 
 
 ### Experiences
 
 - 🏀 Member of WOLFPACK, Basketball Club (2019.09 ~ 2019.12)
-- 👨‍💻 Member/Organizer of EDOC, Programming Study Club (2019.12~/2020.12~)
+- 👨‍💻 Member/Organizer of EDOC, Programming Study Club (2019.12 ~/2020.12 ~)
 - 🥼 Member of Ewha SW Education Volunteer Corps (2020.03 ~ 2021.06) 
-- 📝 TA of 'Problem Solving and Software Programming' (11309), SW Elective Class in Ewha Womans Univ. (2020.03 ~)
+- 📝 TA of 'Problem Solving and Software Programming' (11309), SW Elective Class in Ewha Womans Univ. (2020.03 ~ 2022.06)
 - 🎯 Facilitator of HAEYUM, Design Thinking Club (2020.09 ~ 2021.12)
 - 🌳 Organizer of ICPC Sinchon (2021.09 ~)
+- 📚 Member of Web Development Club (2022.03 ~)
 
 
 
