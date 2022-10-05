@@ -23,7 +23,7 @@
 - 📝 TA of 'Problem Solving and Software Programming' (11309), SW Elective Class in Ewha Womans Univ. (2020.03 ~ 2022.06)
 - 🎯 Facilitator of HAEYUM, Design Thinking Club (2020.09 ~ 2021.12)
 - 🌳 Organizer of ICPC Sinchon, The Union of Sinchon Regional Collegiate Programming Clubs (2021.09 ~ 2022.09) (2022 Winter, 2022 Summer)
-- 🌳 President of ICPC Sinchon, The Union of Sinchon Regional Collegiate Programming Clubs (2022.03 ~ 2022.09) (2022 Summer)
+- 🌳 President of ICPC Sinchon, The Union of Sinchon Regional Collegiate Programming Clubs (2022.04 ~ 2022.09) (2022 Summer)
 - 📚 Member of EFUB, Web Development Club (2022.03 ~)
 
 
