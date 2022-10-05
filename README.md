@@ -17,11 +17,13 @@
 ### Experiences
 
 - 🏀 Member of WOLFPACK, Basketball Club (2019.09 ~ 2019.12)
-- 👨‍💻 Member/Organizer of EDOC, Programming Study Club (2019.12 ~/2020.12 ~)
+- 👨‍💻 Member of EDOC, Programming Study Club (2019.12 ~ 2022.08)
+- 👨‍💻 Organizer of EDOC, Programming Study Club (2020.12 ~ 2022.08)
 - 🥼 Member of Ewha SW Education Volunteer Corps (2020.03 ~ 2021.06) 
 - 📝 TA of 'Problem Solving and Software Programming' (11309), SW Elective Class in Ewha Womans Univ. (2020.03 ~ 2022.06)
 - 🎯 Facilitator of HAEYUM, Design Thinking Club (2020.09 ~ 2021.12)
-- 🌳 Organizer of ICPC Sinchon (2021.09 ~)
+- 🌳 Organizer of ICPC Sinchon, The Union of Sinchon Regional Collegiate Programming Clubs (2021.09 ~ 2022.09) (2022 Winter, 2022 Summer)
+- 🌳 President of ICPC Sinchon, The Union of Sinchon Regional Collegiate Programming Clubs (2022.03 ~ 2022.09) (2022 Summer)
 - 📚 Member of EFUB, Web Development Club (2022.03 ~)
 
 
