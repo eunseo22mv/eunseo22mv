@@ -24,7 +24,7 @@
 - 🎯 Facilitator of HAEYUM, Design Thinking Club (2020.09 ~ 2021.12)
 - 🌳 Organizer of ICPC Sinchon, The Union of Sinchon Regional Collegiate Programming Clubs (2021.09 ~ 2022.09) (2022 Winter, 2022 Summer)
 - 🌳 President of ICPC Sinchon, The Union of Sinchon Regional Collegiate Programming Clubs (2022.03 ~ 2022.09) (2022 Summer)
-- 📚 Member of EFUB, Web Development Club (2022.03 ~)
+- 📚 Member of EFUB, Web Development Club (2022.03 ~ 2022.12)
 - 📚 Organizer of EFUB, Web Development Club (2023.01 ~)
 - 🥼 Undergraduate Research Intern of AI Computing Platform Lab at Ewha Womans University (2022.11 ~)
 
